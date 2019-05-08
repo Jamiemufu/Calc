@@ -1,10 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 body {
-	background-color: #8B907C;
-	background-image: url(https://wallpapertag.com/wallpaper/full/b/5/b/872073-widescreen-desk-background-pictures-1920x1100.jpg);
-	background-size: auto;
-	background-repeat: no-repeat;
+	background-color: darkseagreen;	
 }
 h1 {
 	font-family: 'Open Sans Condensed', sans-serif;
